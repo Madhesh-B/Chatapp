@@ -1,4 +1,4 @@
-# Chat Pie 🍰
+# Chat Pie 
 
 ## Project Overview
 Chat Pie is a real-time group messaging application that allows users to communicate through public and private chat rooms. Users can create password-protected rooms to ensure secure and private conversations. The application focuses on simplicity, security, and smooth real-time interaction.
